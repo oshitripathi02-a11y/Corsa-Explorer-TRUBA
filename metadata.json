@@ -1,0 +1,6 @@
+{
+  "name": "Corsa Explorer",
+  "description": "High-octane minimalist urban discovery guide for handpicked specialty coffee, scenic rooftops, quiet work sanctuaries, and artisanal gelato in Milan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
